@@ -1,0 +1,2 @@
+# eazyAlgorithm
+algorithm practice
