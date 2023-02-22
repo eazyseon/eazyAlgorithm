@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[프로그래머스-소인수분해]" />
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#4]프로그래머스-인덱스바꾸기">
+      <change afterPath="$PROJECT_DIR$/한번만등장한문자.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LxNujXC7FUIUJK29mvrJEV4BnU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +38,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -44,7 +57,10 @@
       <workItem from="1676809000587" duration="242000" />
       <workItem from="1676809258439" duration="235000" />
       <workItem from="1676809576686" duration="74000" />
-      <workItem from="1676809739021" duration="172000" />
+      <workItem from="1676809739021" duration="449000" />
+      <workItem from="1676856675139" duration="686000" />
+      <workItem from="1676944680641" duration="580000" />
+      <workItem from="1677029999910" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
       <created>1676809427648</created>
@@ -53,7 +69,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676809427648</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[#2]프로그래머스-중복된문자제거">
+      <created>1676856809886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676856809886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[#3]프로그래머스-가까운 수">
+      <created>1676944863386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676944863386</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[#3]프로그래머스-암호해독">
+      <created>1676945182448</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676945182448</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[#3]프로그래머스-369게임">
+      <created>1676945268615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676945268615</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[#4]프로그래머스-인덱스바꾸기">
+      <created>1677030043350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677030043350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +133,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[프로그래머스-소인수분해]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[프로그래머스-소인수분해]" />
+    <MESSAGE value="[#2]프로그래머스-중복된문자제거" />
+    <MESSAGE value="[#3]프로그래머스-가까운 수" />
+    <MESSAGE value="[#3]프로그래머스-암호해독" />
+    <MESSAGE value="[#3]프로그래머스-369게임" />
+    <MESSAGE value="[#4]프로그래머스-인덱스바꾸기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#4]프로그래머스-인덱스바꾸기" />
   </component>
 </project>
