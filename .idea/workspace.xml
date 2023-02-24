@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#4]프로그래머스-인덱스바꾸기">
-      <change afterPath="$PROJECT_DIR$/한번만등장한문자.js" afterDir="false" />
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#5]프로그래머스-배열의유사도">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,9 @@
       <workItem from="1676856675139" duration="686000" />
       <workItem from="1676944680641" duration="580000" />
       <workItem from="1677029999910" duration="291000" />
+      <workItem from="1677031498219" duration="563000" />
+      <workItem from="1677032554658" duration="102000" />
+      <workItem from="1677113039252" duration="332000" />
     </task>
     <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
       <created>1676809427648</created>
@@ -104,7 +106,42 @@
       <option name="project" value="LOCAL" />
       <updated>1677030043350</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[#4]프로그래머스-한번만등장한문자">
+      <created>1677031523834</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677031523834</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[#4]프로그래머스-약수구하기">
+      <created>1677032568074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677032568074</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[#4]프로그래머스-영어가싫어요">
+      <created>1677032643028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677032643028</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[#5]프로그래머스-가장큰수찾기">
+      <created>1677113098884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677113098884</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[#5]프로그래머스-배열의유사도">
+      <created>1677117818856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677117818856</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +175,11 @@
     <MESSAGE value="[#3]프로그래머스-암호해독" />
     <MESSAGE value="[#3]프로그래머스-369게임" />
     <MESSAGE value="[#4]프로그래머스-인덱스바꾸기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[#4]프로그래머스-인덱스바꾸기" />
+    <MESSAGE value="[#4]프로그래머스-한번만등장한문자" />
+    <MESSAGE value="[#4]프로그래머스-약수구하기" />
+    <MESSAGE value="[#4]프로그래머스-영어가싫어요" />
+    <MESSAGE value="[#5]프로그래머스-가장큰수찾기" />
+    <MESSAGE value="[#5]프로그래머스-배열의유사도" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#5]프로그래머스-배열의유사도" />
   </component>
 </project>
