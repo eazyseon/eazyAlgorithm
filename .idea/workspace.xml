@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#5]프로그래머스-배열의유사도">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#6]프로그래머스-숫자찾기">
+      <change afterPath="$PROJECT_DIR$/자릿수더하기.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +63,7 @@
       <workItem from="1677031498219" duration="563000" />
       <workItem from="1677032554658" duration="102000" />
       <workItem from="1677113039252" duration="332000" />
+      <workItem from="1677210243094" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
       <created>1676809427648</created>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677117818856</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="[#6]프로그래머스-숫자찾기">
+      <created>1677210275170</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677210275170</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +188,7 @@
     <MESSAGE value="[#4]프로그래머스-영어가싫어요" />
     <MESSAGE value="[#5]프로그래머스-가장큰수찾기" />
     <MESSAGE value="[#5]프로그래머스-배열의유사도" />
-    <option name="LAST_COMMIT_MESSAGE" value="[#5]프로그래머스-배열의유사도" />
+    <MESSAGE value="[#6]프로그래머스-숫자찾기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#6]프로그래머스-숫자찾기" />
   </component>
 </project>
