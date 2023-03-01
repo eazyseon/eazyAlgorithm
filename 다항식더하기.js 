@@ -1,0 +1,42 @@
+function solution(polynomial) {
+    const terms = polynomial.split(' + ');
+    let coefficient = 0;
+    let constant = 0;
+
+    for (let i = 0; i < terms.length; i++) {
+        const term = terms[i];
+        const [numStr, variable] = term.split('x');
+
+        if (variable === '') {
+            if(numStr==='')
+                coefficient+=1
+            else{
+                coefficient += parseInt(numStr);
+            }
+        } else {
+            const num = parseInt(numStr);
+            constant += num;
+        }
+    }
+
+    let answer = '';
+
+    if (coefficient === 1) {
+        answer += 'x';
+    } else if (coefficient !== 0) {
+        answer += `${coefficient}x`;
+    }
+
+    if(coefficient>0 && constant>0){
+        answer += ' + ';
+    }
+
+    if (constant > 0) {
+        answer += constant
+    }
+
+    if(coefficient===0 && constant===0){
+        answer = 0;
+    }
+    return answer.toString()
+}
