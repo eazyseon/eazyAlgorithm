@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#6]프로그래머스-숫자찾기">
-      <change afterPath="$PROJECT_DIR$/자릿수더하기.js" afterDir="false" />
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#11]프로그래머스-겹치는선분의길이">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,13 @@
       <workItem from="1677031498219" duration="563000" />
       <workItem from="1677032554658" duration="102000" />
       <workItem from="1677113039252" duration="332000" />
-      <workItem from="1677210243094" duration="300000" />
+      <workItem from="1677210243094" duration="873000" />
+      <workItem from="1677232086729" duration="4000" />
+      <workItem from="1677322079632" duration="137000" />
+      <workItem from="1677460196898" duration="460000" />
+      <workItem from="1677640540019" duration="1083000" />
+      <workItem from="1677719312253" duration="769000" />
+      <workItem from="1677814577158" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
       <created>1676809427648</created>
@@ -149,7 +155,119 @@
       <option name="project" value="LOCAL" />
       <updated>1677210275170</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="[#6]프로그래머스-자릿수더하기">
+      <created>1677211664630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677211664631</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[#6]프로그래머스-ox퀴즈">
+      <created>1677213702276</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1677213702276</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[#7]프로그래머스-문자열정렬하기">
+      <created>1677322156818</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677322156818</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[#8]프로그래머스-잘라서배열로저장하기">
+      <created>1677460250300</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677460250300</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[#8]프로그래머스-중복된숫자개수">
+      <created>1677460574661</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677460574661</updated>
+    </task>
+    <task id="LOCAL-00018" summary="[#8]프로그래머스-머쓱이보다키큰사람">
+      <created>1677460839510</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677460839510</updated>
+    </task>
+    <task id="LOCAL-00019" summary="[#8]프로그래머스-7의개수">
+      <created>1677460871545</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677460871545</updated>
+    </task>
+    <task id="LOCAL-00020" summary="[#9]프로그래머스-최댓값만들기(2)">
+      <created>1677640585424</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677640585424</updated>
+    </task>
+    <task id="LOCAL-00021" summary="[#9]프로그래머스-최댓값만들기(2)">
+      <created>1677649875379</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1677649875379</updated>
+    </task>
+    <task id="LOCAL-00022" summary="[#9]프로그래머스-직사각형넓이구하기">
+      <created>1677650488695</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1677650488695</updated>
+    </task>
+    <task id="LOCAL-00023" summary="[#9]프로그래머스-캐릭터의좌표">
+      <created>1677654032404</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677654032404</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[#10]프로그래머스-숨어있는숫자의덧셈(2)">
+      <created>1677719356517</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1677719356517</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[#10]프로그래머스-삼각형의완성조건(2)">
+      <created>1677723289920</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1677723289920</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[#10]프로그래머스-외계어사전">
+      <created>1677728877659</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677728877659</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[#11]프로그래머스-저주의숫자3">
+      <created>1677821938011</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1677821938011</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[#11]프로그래머스-겹치는선분의길이">
+      <created>1677821980016</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1677821980016</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,8 +295,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[프로그래머스-소인수분해]" />
-    <MESSAGE value="[#2]프로그래머스-중복된문자제거" />
     <MESSAGE value="[#3]프로그래머스-가까운 수" />
     <MESSAGE value="[#3]프로그래머스-암호해독" />
     <MESSAGE value="[#3]프로그래머스-369게임" />
@@ -189,6 +305,21 @@
     <MESSAGE value="[#5]프로그래머스-가장큰수찾기" />
     <MESSAGE value="[#5]프로그래머스-배열의유사도" />
     <MESSAGE value="[#6]프로그래머스-숫자찾기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[#6]프로그래머스-숫자찾기" />
+    <MESSAGE value="[#6]프로그래머스-자릿수더하기" />
+    <MESSAGE value="[#6]프로그래머스-ox퀴즈" />
+    <MESSAGE value="[#7]프로그래머스-문자열정렬하기" />
+    <MESSAGE value="[#8]프로그래머스-잘라서배열로저장하기" />
+    <MESSAGE value="[#8]프로그래머스-중복된숫자개수" />
+    <MESSAGE value="[#8]프로그래머스-머쓱이보다키큰사람" />
+    <MESSAGE value="[#8]프로그래머스-7의개수" />
+    <MESSAGE value="[#9]프로그래머스-다항식더하기" />
+    <MESSAGE value="[#9]프로그래머스-직사각형넓이구하기" />
+    <MESSAGE value="[#9]프로그래머스-캐릭터의좌표" />
+    <MESSAGE value="[#10]프로그래머스-숨어있는숫자의덧셈(2)" />
+    <MESSAGE value="[#10]프로그래머스-삼각형의완성조건(2)" />
+    <MESSAGE value="[#10]프로그래머스-외계어사전" />
+    <MESSAGE value="[#11]프로그래머스-저주의숫자3" />
+    <MESSAGE value="[#11]프로그래머스-겹치는선분의길이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#11]프로그래머스-겹치는선분의길이" />
   </component>
 </project>
