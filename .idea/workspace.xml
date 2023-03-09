@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#11]프로그래머스-겹치는선분의길이">
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#14]프로그래머스-연속된수의합">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,9 @@
       <workItem from="1677640540019" duration="1083000" />
       <workItem from="1677719312253" duration="769000" />
       <workItem from="1677814577158" duration="1344000" />
+      <workItem from="1678088742808" duration="346000" />
+      <workItem from="1678152908551" duration="1102000" />
+      <workItem from="1678253697789" duration="942000" />
     </task>
     <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
       <created>1676809427648</created>
@@ -267,7 +270,84 @@
       <option name="project" value="LOCAL" />
       <updated>1677821980016</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="[#12]프로그래머스-옹알이(1)">
+      <created>1678088785094</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088785094</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[#12]프로그래머스-등수매기기">
+      <created>1678088816645</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088816645</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[#12]프로그래머스-특이한정렬">
+      <created>1678088855052</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1678088855052</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[#13]프로그래머스-치킨쿠폰">
+      <created>1678152938189</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1678152938189</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[#13]프로그래머스-A로B만들기">
+      <created>1678153566729</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1678153566729</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[#13]프로그래머스-k의개수">
+      <created>1678155636819</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1678155636819</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[#13]프로그래머스-이진수더하기">
+      <created>1678156712849</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1678156712849</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[#14]프로그래머스-문자열밀기">
+      <created>1678253733909</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1678253733909</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[#14]프로그래머스-종이자르기">
+      <created>1678254697451</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1678254697451</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[#14]프로그래머스-다음에올숫자">
+      <created>1678255278800</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1678255278800</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[#14]프로그래머스-연속된수의합">
+      <created>1678256673670</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1678256673670</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,17 +375,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[#3]프로그래머스-가까운 수" />
-    <MESSAGE value="[#3]프로그래머스-암호해독" />
-    <MESSAGE value="[#3]프로그래머스-369게임" />
-    <MESSAGE value="[#4]프로그래머스-인덱스바꾸기" />
-    <MESSAGE value="[#4]프로그래머스-한번만등장한문자" />
-    <MESSAGE value="[#4]프로그래머스-약수구하기" />
-    <MESSAGE value="[#4]프로그래머스-영어가싫어요" />
-    <MESSAGE value="[#5]프로그래머스-가장큰수찾기" />
-    <MESSAGE value="[#5]프로그래머스-배열의유사도" />
-    <MESSAGE value="[#6]프로그래머스-숫자찾기" />
-    <MESSAGE value="[#6]프로그래머스-자릿수더하기" />
     <MESSAGE value="[#6]프로그래머스-ox퀴즈" />
     <MESSAGE value="[#7]프로그래머스-문자열정렬하기" />
     <MESSAGE value="[#8]프로그래머스-잘라서배열로저장하기" />
@@ -320,6 +389,17 @@
     <MESSAGE value="[#10]프로그래머스-외계어사전" />
     <MESSAGE value="[#11]프로그래머스-저주의숫자3" />
     <MESSAGE value="[#11]프로그래머스-겹치는선분의길이" />
-    <option name="LAST_COMMIT_MESSAGE" value="[#11]프로그래머스-겹치는선분의길이" />
+    <MESSAGE value="[#12]프로그래머스-옹알이(1)" />
+    <MESSAGE value="[#12]프로그래머스-등수매기기" />
+    <MESSAGE value="[#12]프로그래머스-특이한정렬" />
+    <MESSAGE value="[#13]프로그래머스-치킨쿠폰" />
+    <MESSAGE value="[#13]프로그래머스-A로B만들기" />
+    <MESSAGE value="[#13]프로그래머스-k의개수" />
+    <MESSAGE value="[#13]프로그래머스-이진수더하기" />
+    <MESSAGE value="[#14]프로그래머스-문자열밀기" />
+    <MESSAGE value="[#14]프로그래머스-종이자르기" />
+    <MESSAGE value="[#14]프로그래머스-다음에올숫자" />
+    <MESSAGE value="[#14]프로그래머스-연속된수의합" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#14]프로그래머스-연속된수의합" />
   </component>
 </project>
