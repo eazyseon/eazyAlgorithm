@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#14]프로그래머스-연속된수의합">
+    <list default="true" id="2814e26a-8eea-43eb-b741-48a443f85bb5" name="Changes" comment="[#25]인프런-부분집합구하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,11 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/프로그래머스" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,132 +78,18 @@
       <workItem from="1678088742808" duration="346000" />
       <workItem from="1678152908551" duration="1102000" />
       <workItem from="1678253697789" duration="942000" />
-    </task>
-    <task id="LOCAL-00001" summary="[프로그래머스-소인수분해]">
-      <created>1676809427648</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676809427648</updated>
-    </task>
-    <task id="LOCAL-00002" summary="[#2]프로그래머스-중복된문자제거">
-      <created>1676856809886</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1676856809886</updated>
-    </task>
-    <task id="LOCAL-00003" summary="[#3]프로그래머스-가까운 수">
-      <created>1676944863386</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1676944863386</updated>
-    </task>
-    <task id="LOCAL-00004" summary="[#3]프로그래머스-암호해독">
-      <created>1676945182448</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1676945182448</updated>
-    </task>
-    <task id="LOCAL-00005" summary="[#3]프로그래머스-369게임">
-      <created>1676945268615</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1676945268615</updated>
-    </task>
-    <task id="LOCAL-00006" summary="[#4]프로그래머스-인덱스바꾸기">
-      <created>1677030043350</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1677030043350</updated>
-    </task>
-    <task id="LOCAL-00007" summary="[#4]프로그래머스-한번만등장한문자">
-      <created>1677031523834</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1677031523834</updated>
-    </task>
-    <task id="LOCAL-00008" summary="[#4]프로그래머스-약수구하기">
-      <created>1677032568074</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1677032568074</updated>
-    </task>
-    <task id="LOCAL-00009" summary="[#4]프로그래머스-영어가싫어요">
-      <created>1677032643028</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1677032643028</updated>
-    </task>
-    <task id="LOCAL-00010" summary="[#5]프로그래머스-가장큰수찾기">
-      <created>1677113098884</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1677113098884</updated>
-    </task>
-    <task id="LOCAL-00011" summary="[#5]프로그래머스-배열의유사도">
-      <created>1677117818856</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1677117818856</updated>
-    </task>
-    <task id="LOCAL-00012" summary="[#6]프로그래머스-숫자찾기">
-      <created>1677210275170</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1677210275170</updated>
-    </task>
-    <task id="LOCAL-00013" summary="[#6]프로그래머스-자릿수더하기">
-      <created>1677211664630</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1677211664631</updated>
-    </task>
-    <task id="LOCAL-00014" summary="[#6]프로그래머스-ox퀴즈">
-      <created>1677213702276</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1677213702276</updated>
-    </task>
-    <task id="LOCAL-00015" summary="[#7]프로그래머스-문자열정렬하기">
-      <created>1677322156818</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1677322156818</updated>
-    </task>
-    <task id="LOCAL-00016" summary="[#8]프로그래머스-잘라서배열로저장하기">
-      <created>1677460250300</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1677460250300</updated>
-    </task>
-    <task id="LOCAL-00017" summary="[#8]프로그래머스-중복된숫자개수">
-      <created>1677460574661</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1677460574661</updated>
-    </task>
-    <task id="LOCAL-00018" summary="[#8]프로그래머스-머쓱이보다키큰사람">
-      <created>1677460839510</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1677460839510</updated>
+      <workItem from="1678335042258" duration="1732000" />
+      <workItem from="1678428445305" duration="1345000" />
+      <workItem from="1678927815605" duration="2846000" />
+      <workItem from="1679029497067" duration="2505000" />
+      <workItem from="1679660488237" duration="378000" />
+      <workItem from="1679882405840" duration="30000" />
+      <workItem from="1679886445562" duration="57000" />
+      <workItem from="1679966181042" duration="486000" />
+      <workItem from="1680052900713" duration="565000" />
+      <workItem from="1680149912414" duration="2076000" />
+      <workItem from="1680246262851" duration="105000" />
+      <workItem from="1680587278415" duration="48000" />
     </task>
     <task id="LOCAL-00019" summary="[#8]프로그래머스-7의개수">
       <created>1677460871545</created>
@@ -347,7 +238,203 @@
       <option name="project" value="LOCAL" />
       <updated>1678256673670</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="폴더정리">
+      <created>1678335326784</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1678335326784</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[#15]인프런-자리수의합">
+      <created>1678335382446</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1678335382446</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[#15]인프런-뒤집은소수">
+      <created>1678336771043</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1678336771043</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[#15]인프런-졸업선물">
+      <created>1678338805700</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1678338805700</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[#16]인프런-공통원소구하기">
+      <created>1678428488581</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1678428488581</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[#16]인프런-연속부분수열">
+      <created>1678430419536</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1678430419536</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[#16]인프런-연속부분수열2">
+      <created>1678432223864</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1678432223864</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[#17]인프런-최대매출">
+      <created>1678930214864</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1678930214864</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[#17]인프런-학급회장">
+      <created>1678932861381</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1678932861381</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[#17]인프런-아나그램">
+      <created>1678933471810</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1678933471810</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[#18]인프런-올바른괄호">
+      <created>1679030591973</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1679030591973</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[#18]인프런-괄호문자제거">
+      <created>1679035752983</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1679035752983</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[#18]인프런-크레인인형뽑기">
+      <created>1679037377552</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1679037377552</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[#19]인프런-공주구하기">
+      <created>1679660522776</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1679660522776</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[#19]인프런-교육과정설계">
+      <created>1679662618177</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1679662618178</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[#20]인프런-선택정렬">
+      <created>1679882432401</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1679882432401</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[#20]인프런-버블정렬">
+      <created>1679886494139</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1679886494140</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[#21]인프런-삽입정렬">
+      <created>1679966212018</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1679966212018</updated>
+    </task>
+    <task id="LOCAL-00058" summary="[#21]인프런-장난꾸리기현수">
+      <created>1679967250919</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1679967250919</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[#22]인프런-좌표정렬">
+      <created>1680052934868</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1680052934869</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[#22]인프런-회의실배정">
+      <created>1680054172272</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1680054172273</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[#22]인프런-결혼식">
+      <created>1680055817320</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1680055817320</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[#23]인프런-이분검색">
+      <created>1680152601243</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1680152601243</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[#23]인프런-뮤직비디오">
+      <created>1680155156981</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1680155156981</updated>
+    </task>
+    <task id="LOCAL-00064" summary="[#23]인프런-마구간정하기">
+      <created>1680157555532</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1680157555532</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[#24]인프런-재귀함수">
+      <created>1680246326585</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1680246326585</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[#24]인프런-이진수출력">
+      <created>1680246358408</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1680246358408</updated>
+    </task>
+    <task id="LOCAL-00067" summary="[#25]인프런-부분집합구하기">
+      <created>1680587319166</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1680587319166</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -375,31 +462,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[#6]프로그래머스-ox퀴즈" />
-    <MESSAGE value="[#7]프로그래머스-문자열정렬하기" />
-    <MESSAGE value="[#8]프로그래머스-잘라서배열로저장하기" />
-    <MESSAGE value="[#8]프로그래머스-중복된숫자개수" />
-    <MESSAGE value="[#8]프로그래머스-머쓱이보다키큰사람" />
-    <MESSAGE value="[#8]프로그래머스-7의개수" />
-    <MESSAGE value="[#9]프로그래머스-다항식더하기" />
-    <MESSAGE value="[#9]프로그래머스-직사각형넓이구하기" />
-    <MESSAGE value="[#9]프로그래머스-캐릭터의좌표" />
-    <MESSAGE value="[#10]프로그래머스-숨어있는숫자의덧셈(2)" />
-    <MESSAGE value="[#10]프로그래머스-삼각형의완성조건(2)" />
-    <MESSAGE value="[#10]프로그래머스-외계어사전" />
-    <MESSAGE value="[#11]프로그래머스-저주의숫자3" />
-    <MESSAGE value="[#11]프로그래머스-겹치는선분의길이" />
-    <MESSAGE value="[#12]프로그래머스-옹알이(1)" />
-    <MESSAGE value="[#12]프로그래머스-등수매기기" />
-    <MESSAGE value="[#12]프로그래머스-특이한정렬" />
-    <MESSAGE value="[#13]프로그래머스-치킨쿠폰" />
-    <MESSAGE value="[#13]프로그래머스-A로B만들기" />
-    <MESSAGE value="[#13]프로그래머스-k의개수" />
-    <MESSAGE value="[#13]프로그래머스-이진수더하기" />
-    <MESSAGE value="[#14]프로그래머스-문자열밀기" />
-    <MESSAGE value="[#14]프로그래머스-종이자르기" />
-    <MESSAGE value="[#14]프로그래머스-다음에올숫자" />
-    <MESSAGE value="[#14]프로그래머스-연속된수의합" />
-    <option name="LAST_COMMIT_MESSAGE" value="[#14]프로그래머스-연속된수의합" />
+    <MESSAGE value="[#15]인프런-졸업선물" />
+    <MESSAGE value="[#16]인프런-공통원소구하기" />
+    <MESSAGE value="[#16]인프런-연속부분수열" />
+    <MESSAGE value="[#16]인프런-연속부분수열2" />
+    <MESSAGE value="[#17]인프런-최대매출" />
+    <MESSAGE value="[#17]인프런-학급회장" />
+    <MESSAGE value="[#17]인프런-아나그램" />
+    <MESSAGE value="[#18]인프런-올바른괄호" />
+    <MESSAGE value="[#18]인프런-괄호문자제거" />
+    <MESSAGE value="[#18]인프런-크레인인형뽑기" />
+    <MESSAGE value="[#19]인프런-공주구하기" />
+    <MESSAGE value="[#19]인프런-교육과정설계" />
+    <MESSAGE value="[#20]인프런-선택정렬" />
+    <MESSAGE value="[#20]인프런-버블정렬" />
+    <MESSAGE value="[#21]인프런-삽입정렬" />
+    <MESSAGE value="[#21]인프런-장난꾸리기현수" />
+    <MESSAGE value="[#22]인프런-좌표정렬" />
+    <MESSAGE value="[#22]인프런-회의실배정" />
+    <MESSAGE value="[#22]인프런-결혼식" />
+    <MESSAGE value="[#23]인프런-이분검색" />
+    <MESSAGE value="[#23]인프런-뮤직비디오" />
+    <MESSAGE value="[#23]인프런-마구간정하기" />
+    <MESSAGE value="[#24]인프런-재귀함수" />
+    <MESSAGE value="[#24]인프런-이진수출력" />
+    <MESSAGE value="[#25]인프런-부분집합구하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[#25]인프런-부분집합구하기" />
   </component>
 </project>
