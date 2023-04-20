@@ -7,5 +7,5 @@ function solution(numbers) {
         }
     }
     answer.sort((a, b) => a - b);
-    return [...new Set(answer)];
+    return [...new S기et(answer)];
 }
